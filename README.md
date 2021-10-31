@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SatanistPanda
-- 👀 I’m interested in front end developing
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript
-- 📫 How to reach me 
+- 👀 I’m interested in software engineering and web developing
+- 🌱 I’m currently learning React 
+
 
 <!---
 SatanistPanda/SatanistPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
